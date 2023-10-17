@@ -1,0 +1,88 @@
+{
+  "columnAttributes": [
+    {
+      "name": "Date",
+      "type": "DateTime",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "datetime64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Oil volume (m3/day)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Volume of liquid (m3/day)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Gas volume (m3/day)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Water volume (m3/day)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Water cut (%)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Working hours",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Dynamic level (m)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Reservoir pressure (atm)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    }
+  ],
+  "featureChannels": [],
+  "labelColumns": {},
+  "scoreColumns": {}
+}

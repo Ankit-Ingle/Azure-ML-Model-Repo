@@ -1,0 +1,35 @@
+[
+  {
+    "Date": "2017-08-10 00:00:00",
+    "Oil volume (m3/day)": 13,
+    "Volume of liquid (m3/day)": 52,
+    "Gas volume (m3/day)": 3517,
+    "Water volume (m3/day)": 38,
+    "Water cut (%)": 74,
+    "Working hours": 24,
+    "Dynamic level (m)": 1863,
+    "Reservoir pressure (atm)": 149
+  },
+  {
+    "Date": "2016-05-25 00:00:00",
+    "Oil volume (m3/day)": 13,
+    "Volume of liquid (m3/day)": 55,
+    "Gas volume (m3/day)": 3451,
+    "Water volume (m3/day)": 42,
+    "Water cut (%)": 76,
+    "Working hours": 18,
+    "Dynamic level (m)": 1812,
+    "Reservoir pressure (atm)": 166
+  },
+  {
+    "Date": "2018-02-12 00:00:00",
+    "Oil volume (m3/day)": 14,
+    "Volume of liquid (m3/day)": 56,
+    "Gas volume (m3/day)": 3838,
+    "Water volume (m3/day)": 42,
+    "Water cut (%)": 74,
+    "Working hours": 24,
+    "Dynamic level (m)": 1922,
+    "Reservoir pressure (atm)": 142
+  }
+]
